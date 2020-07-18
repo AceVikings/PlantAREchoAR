@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765647460469",
+    "firebase_url": "https://plantar-17657.firebaseio.com",
+    "project_id": "plantar-17657",
+    "storage_bucket": "plantar-17657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765647460469:android:76967320bad678bd8d403c",
+        "android_client_info": {
+          "package_name": "com.vikings.plantar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765647460469-hikieea729kot5qvne9ngemkot32755n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHu7WDq64eR0gBngrsFbs1bkClqDk3eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765647460469-hikieea729kot5qvne9ngemkot32755n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
